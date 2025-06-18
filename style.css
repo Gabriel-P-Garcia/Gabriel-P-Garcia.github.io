@@ -75,10 +75,3 @@ div.desc {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
-
-.lancer//{
-    position: fixed;
-    display:flex;
-    margin-left: 420px;
-    margin-top:204px;
-}
