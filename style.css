@@ -76,7 +76,7 @@ div.desc {
     
 }
 
-.lancer{
+.lancer//{
     position: fixed;
     display:flex;
     margin-left: 420px;
