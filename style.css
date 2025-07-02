@@ -6,6 +6,7 @@ html{
 .maintitle{
     display: flex;
     justify-content: center;
+    
 }
 h1{
     background-image: linear-gradient(rgba(16, 0, 161, 0.5), rgba(0, 0, 0, 0.308));
@@ -78,9 +79,25 @@ div.desc {
     
 }
 
-.lancer{
-   position: fixed;
-    left: 800px;
-    right: 800px;
-    bottom: 16px;
+.botaosc{
+    position: relative;
+    padding: 9px 15px;
+    background-color: #ffffff;
+    color: #007BFF;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    left: 47%;
 }
+    
+#botaosc:hover{
+        background-color: #0056b3;
+        color: white;
+}
+
+ .img {
+      position: absolute;
+      width: 100px; 
+      height: auto;
+    }
+    
