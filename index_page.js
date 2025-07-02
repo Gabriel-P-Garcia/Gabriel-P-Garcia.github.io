@@ -18,5 +18,5 @@ function show_image() {
   document.body.appendChild(img);
 }
 
-
-
+var splat = new Audio();
+splat.src = "splat.mp3"; "splat.ogg";
